@@ -1,0 +1,8 @@
+delegado 0: recibio-HOLA-continuando.
+delegado 0: recibio-ALGORITMOS:Blowfish:RSA:HMACSHA512-continuando.
+delegado 0: envio certificado del servidor. continuando.
+delegado 0: recibio y creo llave simetrica. continuando.
+delegado 0: recibio confirmacion del cliente:OK-continuado.
+delegado 0: recibio cc y clave - continuando
+delegado 0: envio valor 23429000 cifrado con llave simetrica al cliente. continuado.
+delegado 0: Terminando exitosamente.OK
